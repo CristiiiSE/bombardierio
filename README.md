@@ -1,3 +1,4 @@
+![webone](https://user-images.githubusercontent.com/98966871/161399596-7969e2de-0661-44f2-a977-8e6fea1233ad.png)
 # Salutare toata lumea eu sunt Cristinel - AKA [CristiiiSE][youtube] 💎👑 
 
 ## Cristi Aristocratu Matrimonial
