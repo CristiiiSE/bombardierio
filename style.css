@@ -278,7 +278,7 @@ h4{
 /*medium screens - Laptops*/
 @media screen and (max-width: 1024px) {
     .hero{
-        background-image:url("https://user-images.githubusercontent.com/98966871/161418749-7485853a-e9e8-45f3-9aef-8c00ed3fc795.png");
+        background-image:url("https://user-images.githubusercontent.com/98966871/161417787-c4c2d137-495b-40c8-8b54-942dda24a6b1.png");
         height: 500px;
         background-position: center;
     }
@@ -297,7 +297,7 @@ h4{
 /*Small screens - tablets*/
 @media screen and (max-width: 768px) {
     .hero{
-        background-image:url("https://user-images.githubusercontent.com/98966871/161418749-7485853a-e9e8-45f3-9aef-8c00ed3fc795.png");
+        background-image:url("https://user-images.githubusercontent.com/98966871/161417787-c4c2d137-495b-40c8-8b54-942dda24a6b1.png");
         height: 600px;
         background-position: center;
     }
@@ -328,7 +328,7 @@ h4{
 /*Extra small screens - phones*/
 @media screen and (max-width: 480px) {
     .hero{
-        background-image:url("https://user-images.githubusercontent.com/98966871/161418749-7485853a-e9e8-45f3-9aef-8c00ed3fc795.png");
+        background-image:url("https://user-images.githubusercontent.com/98966871/161417787-c4c2d137-495b-40c8-8b54-942dda24a6b1.png");
         height: 500px;
         background-position: center;
         
