@@ -19,7 +19,7 @@
 | Compatability | Android 8.1 API 26 or above |
 | Payments | No payment required |
 | Features | Perfect PC Selection for your work |
-| Download | <a href="https://play.google.com/store/apps/details?id=com.acristyz.pcpartsselectorpro"><img align="left" width="60px" src="https://user-images.githubusercontent.com/98966871/161399832-249bfb95-ca7a-4aa9-ae33-59976e169338.png" alt="Twitter"/></a> |
+| Download | <a href="https://play.google.com/store/apps/details?id=com.acristyz.pcpartsselectorpro"><img align="left" width="120px" src="https://user-images.githubusercontent.com/98966871/161399832-249bfb95-ca7a-4aa9-ae33-59976e169338.png" alt="Twitter"/></a> |
 
 
 
